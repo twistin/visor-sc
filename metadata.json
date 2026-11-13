@@ -1,0 +1,6 @@
+{
+  "name": "SC-Viz Studio",
+  "description": "Real-time OSC audio visualizer and declarative WebGL scene studio for SuperCollider with natural-language scene generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
